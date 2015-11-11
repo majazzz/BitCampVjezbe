@@ -2,4 +2,4 @@ Hello World!
 
 Ovo je sa developement branch-a
 
-Malo drugacije
+Malo nije nego sa prve drugacije
